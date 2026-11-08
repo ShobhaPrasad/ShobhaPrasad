@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @ShobhaPrasad
-- 👀 I’m interested in web Devlopment
-- 🌱 I’m currently learning cascadingCSS
-- 💞️ I’m looking to collaborate on Ecommerce Website Project
-- 📫 How to reach me prasadkshobha@gmail.com / 7407753517
+Hi, I'm Shobha 👋
+
+Data Analyst Intern | Learning Python, Excel & SQL
+Currently building Mini Projects in Python
+
+📊 Student Marks Dashboard - Python project using List & Dictionary
+📈 Learning Excel + SQL for Data Analysis
+
+Connect with me on LinkedIn!
 
 <!---
 ShobhaPrasad/ShobhaPrasad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
